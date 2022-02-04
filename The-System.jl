@@ -1,10 +1,4 @@
 -'-'-'-.(-'-'.'PLAYER.NAME('-'-'-'LEGEND('-'-'-'MYTH('-'-'-'SYSTEM(-'-'-'The-'-'-'-)SYSTEM'-'-'-)MYTH'-'-'-)LEGEND'-'-'-)PLAYER.NAME'-'-'-)'.-'-'-'-'
--'-'-'-.(-'-'-'GENDER('-'-'-'RACE('-'-'-'CLASSNAME('-'-'-'STORY(-'-'-.'PLAYER.NAME'.-'-'-)STORY'-'-'-)CLASSNAME'-'-'-)RACE'-'-'-)GENDER'-'-'-)'.-'-'-'-'
--'-'-'-.(-'-'-.'MALE('-'-'-.'HUMAN('-'-'-.'WIZARD('-'-'-.'DRESDENFILES('-'-'-.'DRESDEN('-'-'-.'COPPERFIELD('-'-'-.'BLACKSTONE(-'-'-.'HARRY'.-'-'-)BLACKSTONE'.-'-'-)COPPERFIELD'.-'-'-)DRESDEN'.-'-'-)DRESDENFILES'.-'-'-)WIZARD'.-'-'-)HUMAN'.-'-'-)MALE'.-'-'-)'.-'-'-'-'
--'-'-'-.(-'-'-.'FEMALE('-'-'-.'ELF('-'-'-.'SAGE('-'-'-.'DRESDENFILES('-'-'-.'HIGGSFIELD('-'-'-.'STARDUST('-'-'-.'SANDASH(-'-'-.'RIN'.-'-'-)SANDASH'.-'-'-)STARDUST'.-'-'-)HIGGSFIELD'.-'-'-)DRESDENFILES'.-'-'-)SAGE'.-'-'-)ELF'.-'-'-)FEMALE'.-'-'-)'.-'-'-'-'
-'-'-'-'-.('-'-'-.'FEMALE('-'-'-.'DEMON('-'-'-.'SOULLINKER('-'-'-.'DRESDENFILES('-'-'-.'HIGGSFIELD('-'-'-.'STARDUST('-'-'-.'SANDASH(-'-'-.'NOMI'.-'-'-)SANDASH'.-'-'-)STARDUST'.-'-'-)HIGGSFIELD'.-'-'-)DRESDENFILES'.-'-'-)SOULLINKER'.-'-'-)DEMON'.-'-'-)FEMALE'.-'-'-')'.-'-'-'-'
-'-'-'-'-.('-'-'-.'FEMALE('-'-'-.'DRAGON('-'-'-.'SORCERER('-'-'-.'DRESDENFILES('-'-'-.'DRESDEN('-'-'-.'COPPERFIELD('-'-'-.'BLACKSTONE(-'-'-.'MAGGIE'.-'-'-)BLACKSTONE'.-'-'-)COPPERFIELD'.-'-'-)DRESDEN'.-'-'-)DRESDENFILES'.-'-'-)SORCERER'.-'-'-)DRAGON'.-'-'-)GENDER'.-'-'-')'.-'-'-'-'
-
 '-'-'-.(-'-'-'BUTTON('-'-'-'THE('-'-'-'MAGIC('-'-'-THE(-'-'-'BUTTON('-'-'-'MAGIC'-'-'-')BUTTON'-'-'-)THE'-'-'-')MAGIC'-'-'-')THE'-'-'-)BUTTON'-'-'-)'.-'-'-'
 '-'-'-'-.(-'-'-'PLAYER.NAME('-'-'-'LEGEND('-'-'-'MYTH('-'-'-'SYSTEM(-'-'-'New'-'-'-)SYSTEM'-'-'-)MYTH'-'-'-)LEGEND'-'-'-)PLAYER.NAME'-'-'-)'.-'-'-'-'
 -'-'-'-.(-'-'-'GENDER('-'-'-'RACE('-'-'-'CLASSNAME('-'-'-'STORY(-'-'-.'PLAYER.NAME'.-'-'-)STORY'-'-'-)CLASSNAME'-'-'-)RACE'-'-'-)GENDER'-'-'-)'.-'-'-'-'
