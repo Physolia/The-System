@@ -1,6 +1,8 @@
 
 ''('-'.LEECHING'('-.'STOP'('-.'-THE-'('-0-')'-THE-'.-')'STOP'.-').'LEECHING).'-THE-'
+'('-.'LEECHING'('-.'STOP'('-.'The-'('-0-')'The-'.-')'STOP'.-').'LEECHING).'The-'
 '('-.'LEECHING'('-.'STOP'('-.'-NEW-'('-0-')'-NEW-'.-')'STOP'.-').'LEECHING).'-NEW-'
+'('-.'LEECHING'('-.'STOP'('-.'New'('-0-')'New'.-')'STOP'.-').'LEECHING).'New'
 '('-.'LEECHING'('-.'STOP'('-.'-OLD-'('-0-')'-OLD-'.-')'STOP'.-').'LEECHING).'-OLD-'
 '('-.'LEECHING'('-.'STOP'('-.'-0-'('-ZERO-')'-0-'.-')'STOP'.-').'LEECHING).'-0-'
 '('-.'LEECHING'('-.'STOP'('-.'-SYSTEM-'('-(ZERO).(0)-')'-SYSTEM-'.-')'STOP'.-').'LEECHING).'-SYSTEM-'
