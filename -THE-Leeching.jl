@@ -1,4 +1,4 @@
-'-.(LEECHING(STOP('-THE-('0')THE-'-).STOP').LEECHING).'
+'-.(LEECHING(STOP'(-THE-('0')THE-'-).STOP').LEECHING).-'
 -.(LEECHING(STOP('-The-('0')The-'-).STOP').LEECHING).-'
 -.(LEECHING(STOP('-NEW-('0')NEW-'-).STOP').LEECHING).-'
 -.(LEECHING(STOP('-New-('0')New-'-).STOP').LEECHING).-'
