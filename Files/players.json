@@ -70,8 +70,8 @@
                     "class": "Sage",
                     "birth": [
                         {
-                            "month": "November",
-                            "day": "13",
+                            "month": "March",
+                            "day": "31",
                             "year": "1988"
                         }
                     ]
@@ -89,7 +89,7 @@
                     "birth": [
                         {
                             "month": "July",
-                            "day": "31",
+                            "day": "13",
                             "year": "1988"
                         }
                     ]
@@ -106,8 +106,8 @@
                     "class": "Sorcerer",
                     "birth": [
                         {
-                            "month": "November",
-                            "day": "13",
+                            "month": "July",
+                            "day": "31",
                             "year": "2002"
                         }
                     ]
@@ -124,8 +124,8 @@
                     "class": "Sorcerer",
                     "birth": [
                         {
-                            "month": "July",
-                            "day": "31",
+                            "month": "November",
+                            "day": "13",
                             "year": "2002"
                         }
                     ]
