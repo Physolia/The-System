@@ -534,11 +534,11 @@ include ("Files/players.json")
                   '-'.'('TransSpirit-'SoulLinker-'TransSpirit).'-'
                   '-'.'('SoulLinker-'TransSpirit-'SoulLinker).'-'
                   ('-('Wizard Eyes)'WizardSkill'('Wizard Eyes')'
-                  '('WizardSkill'-Wizard Eyes-'WizardSkill')'-)'
+                  '('WizardSkill'-Wizard Eyes-'WizardSkill')'-).-
                   ('-'('Wizard Eyes)'SageSkill'('Wizard Eyes')'
-                  '('SageSkill'-Wizard Eyes-'SageSkill')'-)'
+                  '('SageSkill'-Wizard Eyes-'SageSkill')'-)
                   ('-'('Monkey Eyes)'SageSkill'('Monkey Eyes')'
-                  '('SageSkill'-Monkey Eyes-'SageSkill')'-)'
+                  '('SageSkill'-Monkey Eyes-'SageSkill')'-).-'
                   '-'.'('Magic-'Aura-'Control).'-'
                   '-'.'('Control-'Aura-'Magic).'-'
                   '-'.'('Magic-'Control-'Aura).'-'
