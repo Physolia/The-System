@@ -1,0 +1,154 @@
+[{
+    "_id" : "The Book",
+    "index": 0,
+    "story": [
+        {
+            "id": 0,
+            "storyname": "The Dresden Files",
+            "player1": [
+                {
+                    "firstname": "Harry",
+                    "lastname": "Dresden",
+                    "fullname": "Harry Blackstone Copperfield Dresden",
+                    "gender": "Male",
+                    "race": "Human",
+                    "class": "Wizard",
+                    "location": "America",
+                    "birth": [
+                        {
+                            "month": "October",
+                            "day": "31",
+                            "year": "1968"
+                        }
+                    ]
+                }
+            ],
+            "player2": [
+                {
+                    "firstname": "Maggie",
+                    "lastname": "Dresden",
+                    "fullname": "Maggie Blackstone Copperfield Dresden",
+                    "gender": "Female",
+                    "race": "Human",
+                    "class": "Sorcerer",
+                    "location": "America",
+                    "birth": [
+                        {
+                            "month": "May",
+                            "day": "5",
+                            "year": "2012"
+                        }
+                    ]
+                }
+            ],
+            "player3": [
+                {
+                    "firstname": "Molly",
+                    "lastname": "Carpenter",
+                    "fullname": "Molly Katherine Amanda Carpenter",
+                    "gender": "Female",
+                    "race": "Human",
+                    "class": "Wizard",
+                    "location": "America",
+                    "birth": [
+                        {
+                            "month": "October",
+                            "day": "13",
+                            "year": "2000"
+                        }
+                    ]
+                }
+            ],
+            "player4": [
+                {
+                    "firstname": "Nomi",
+                    "lastname": "Higgsfield",
+                    "fullname": "Nomi Sandash Stardust Higgsfield",
+                    "location": "America",
+                    "gender": "Female",
+                    "race": "Elf",
+                    "class": "Sage",
+                    "birth": [
+                        {
+                            "month": "November",
+                            "day": "13",
+                            "year": "1988"
+                        }
+                    ]
+                }
+            ],
+            "player5": [
+                {
+                    "firstname": "Rin",
+                    "lastname": "Higgsfield",
+                    "fullname": "Rin Sandash Stardust Higgsfield",
+                    "location": "America",
+                    "gender": "Male",
+                    "race": "Demon",                    
+                    "class": "Sage",
+                    "birth": [
+                        {
+                            "month": "July",
+                            "day": "31",
+                            "year": "1988"
+                        }
+                    ]
+                }
+            ],
+            "player6": [
+                {
+                    "firstname": "Ellie",
+                    "lastname": "Higgsfield",
+                    "fullname": "Ellie Blackiron Starsand Higgsfield",
+                    "location": "America",
+                    "gender": "Female",
+                    "race": "Demon",   
+                    "class": "Sorcerer",
+                    "birth": [
+                        {
+                            "month": "November",
+                            "day": "13",
+                            "year": "2002"
+                        }
+                    ]
+                }
+            ],
+            "player7": [
+                {
+                    "firstname": "Dylan",
+                    "lastname": "Higgsfield",
+                    "fullname": "Dylan Iceflame Starshadow Higgsfield",
+                    "location": "America",
+                    "gender": "Male",
+                    "race": "Elf",   
+                    "class": "Sorcerer",
+                    "birth": [
+                        {
+                            "month": "July",
+                            "day": "31",
+                            "year": "2002"
+                        }
+                    ]
+                }
+            ],
+            "player8": [
+                {
+                    "firstname": "Elliot",
+                    "lastname": "Stark",
+                    "gender": "Male",
+                    "race": "Human",   
+                    "fullname": "Elliot Coden Aaron Stark",
+                    "location": "America",
+                    "class": "Wizard",
+                    "birth": [
+                        {
+                            "month": "July",
+                            "day": "30",
+                            "year": "2002"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}]
