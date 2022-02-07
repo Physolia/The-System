@@ -4,7 +4,8 @@ import Pkg; Pkg.add("DataFramesMeta")
 import Pkg; Pkg.add("JSON")
 
 include ("src/System.jl")
-include ("Files/Leechers")
+include ("Files/CombineLeeching.jl")
+include ("Files/Leechers.jl")
 include ("Files/players.json")
 
 -'-'-'-.'(GENDER.(RACE.(CLASSNAME.(STORY.(-PLAYER-.'NAME'.'-'-')'STORY-'-')CLASSNAME-'-')RACE-'-')GENDER-'-')'.'-'-'-
