@@ -3,6 +3,7 @@ import Pkg; Pkg.add("RDatasets")
 import Pkg; Pkg.add("DataFramesMeta")
 import Pkg; Pkg.add("JSON")
 
+include ("src/System.jl")
 include ("Files/Leechers.jl")
 include ("Files/players.json")
 
