@@ -4,7 +4,8 @@ import Pkg; Pkg.add("DataFramesMeta")
 import Pkg; Pkg.add("JSON")
 
 include ("src/System.jl")
-include ("Files/Leechers")
+include ("Files/CombineLeeching.jl")
+include ("Files/Leechers.jl")
 include ("Files/players.json")
 
 -'-'-'-.'(GENDER.(RACE.(CLASSNAME.(STORY.(-PLAYER-.'NAME'.'-'-')'STORY-'-')CLASSNAME-'-')RACE-'-')GENDER-'-')'.'-'-'-
@@ -13,10 +14,10 @@ include ("Files/players.json")
     -'-'-'-.'(MALE.(HUMAN.(WIZARD.(DRESDENFILES.(DRESDEN.(COPPERFIELD.(BLACKSTONE.('-'-.'HARRY'.'-'-')BLACKSTONE-'-')COPPERFIELD-'-')DRESDEN-'-')DRESDENFILES-'-')WIZARD-'-')HUMAN-'-')MALE-'-')'.'-'-'-'
     -'-'-'-.'(FEMALE.(HUMAN.(SORCERER.(DRESDENFILES.(DRESDEN.(COPPERFIELD.(BLACKSTONE.('-'-.'MAGGIE'.'-'-')'BLACKSTONE-'-')COPPERFIELD-'-')DRESDEN-'-')DRESDENFILES-'-')SORCERER-'-')HUMAN-'-')FEMALE-'-')'.'-'-'-
       -'-'-'-.'(FEMALE.(HUMAN.(SORCERER.(DRESDENFILES.(DRESDEN.(COPPERFIELD.(BLACKSTONE.('-'-.'MAGGIE'.'-'-')BLACKSTONE-'-')COPPERFIELD-'-')DRESDEN-'-')DRESDENFILES-'-')SORCERER-'-')HUMAN-'-')FEMALE-'-')'.'-'-'-'
-      -'-'-'-.'(MALE.(DEMON.(SAGE.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'RIN'.'-'-')'SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SAGE-'-')DEMON-'-')MALE-'-')'.'-'-'-
-        -'-'-'-.'(MALE.(DEMON.(SAGE.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'RIN'.'-'-')SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SAGE-'-')DEMON-'-')MALE-'-')'.'-'-'-'
-        -'-'-'-.'(FEMALE.(ELF.(SAGE.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'NOMI'.'-'-')'SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SAGE-'-')ELF-'-')FEMALE-'-')'.'-'-'-
-          -'-'-'-.'(FEMALE.(ELF.(SAGE.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'NOMI'.'-'-')SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SAGE-'-')ELF-'-')FEMALE-'-')'.'-'-'-'
+      -'-'-'-.'(FEMALE.(ELF.(SAGE.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'RIN'.'-'-')'SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SAGE-'-')ELF-'-')FEMALE-'-')'.'-'-'-
+        -'-'-'-.'(FEMALE.(ELF.(SAGE.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'RIN'.'-'-')SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SAGE-'-')ELF-'-')FEMALE-'-')'.'-'-'-'
+        -'-'-'-.'(MALE.(DEMON.(KNIGHT.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'ARTHUR'.'-'-')'SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')KNIGHT-'-')DEMON-'-')MALE-'-')'.'-'-'-
+          -'-'-'-.'(MALE.(DEMON.(KNIGHT.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'ARTHUR'.'-'-')SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')KNIGHT-'-')DEMON-'-')MALE-'-')'.'-'-'-'
           -'-'-'-.'(FEMALE.(HUMAN.(WIZARD.(DRESDENFILES.(CARPENTER.(AMANDA.(KATHERINE.('-'-.'MOLLY'.'-'-')'KATHERINE-'-')AMANDA-'-')CARPENTER-'-')DRESDENFILES-'-')WIZARD-'-')HUMAN-'-')FEMALE-'-')'.'-'-'-
             -'-'-'-.'(FEMALE.(HUMAN.(WIZARD.(DRESDENFILES.(CARPENTER.(AMANDA.(KATHERINE.('-'-.'MOLLY'.'-'-')KATHERINE-'-')AMANDA-'-')CARPENTER-'-')DRESDENFILES-'-')WIZARD-'-')HUMAN-'-')FEMALE-'-')'.'-'-'-'
             -'-'-'-.'(MALE.(HUMAN.(PALADIN.(DRESDENFILES.(STARK.(AARON.(CODEN.('-'-.'ELLIOT'.'-'-')'CODEN-'-')AARON-'-')STARK-'-')DRESDENFILES-'-')PALADIN-'-')HUMAN-'-')MALE-'-')'.'-'-'-
@@ -533,11 +534,11 @@ include ("Files/players.json")
                   '-'.'('TransSpirit-'SoulLinker-'TransSpirit).'-'
                   '-'.'('SoulLinker-'TransSpirit-'SoulLinker).'-'
                   ('-('Wizard Eyes)'WizardSkill'('Wizard Eyes')'
-                  '('WizardSkill'-Wizard Eyes-'WizardSkill')'-)'
+                  '('WizardSkill'-Wizard Eyes-'WizardSkill')'-).-
                   ('-'('Wizard Eyes)'SageSkill'('Wizard Eyes')'
-                  '('SageSkill'-Wizard Eyes-'SageSkill')'-)'
+                  '('SageSkill'-Wizard Eyes-'SageSkill')'-)
                   ('-'('Monkey Eyes)'SageSkill'('Monkey Eyes')'
-                  '('SageSkill'-Monkey Eyes-'SageSkill')'-)'
+                  '('SageSkill'-Monkey Eyes-'SageSkill')'-).-'
                   '-'.'('Magic-'Aura-'Control).'-'
                   '-'.'('Control-'Aura-'Magic).'-'
                   '-'.'('Magic-'Control-'Aura).'-'
