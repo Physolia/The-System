@@ -3,7 +3,8 @@ import Pkg; Pkg.add("RDatasets")
 import Pkg; Pkg.add("DataFramesMeta")
 import Pkg; Pkg.add("JSON")
 
-include ("players.json")
+include ("Files/Leechers.jl"
+include ("Files/players.json")
 
 -'-'-'-.'(GENDER.(RACE.(CLASSNAME.(STORY.(-PLAYER-.'NAME'.'-'-')'STORY-'-')CLASSNAME-'-')RACE-'-')GENDER-'-')'.'-'-'-
   -'-'-'-.'(GENDER.(RACE.(CLASSNAME.(STORY.(-PLAYER-.'NAME'.'-'-')STORY-'-')CLASSNAME-'-')RACE-'-')GENDER-'-')'.'-'-'-'
