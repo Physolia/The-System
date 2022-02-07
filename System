@@ -16,8 +16,8 @@ include ("Files/players.json")
       -'-'-'-.'(FEMALE.(HUMAN.(SORCERER.(DRESDENFILES.(DRESDEN.(COPPERFIELD.(BLACKSTONE.('-'-.'MAGGIE'.'-'-')BLACKSTONE-'-')COPPERFIELD-'-')DRESDEN-'-')DRESDENFILES-'-')SORCERER-'-')HUMAN-'-')FEMALE-'-')'.'-'-'-'
       -'-'-'-.'(MALE.(DEMON.(SAGE.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'RIN'.'-'-')'SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SAGE-'-')DEMON-'-')MALE-'-')'.'-'-'-
         -'-'-'-.'(MALE.(DEMON.(SAGE.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'RIN'.'-'-')SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SAGE-'-')DEMON-'-')MALE-'-')'.'-'-'-'
-        -'-'-'-.'(FEMALE.(ELF.(SAGE.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'NOMI'.'-'-')'SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SAGE-'-')ELF-'-')FEMALE-'-')'.'-'-'-
-          -'-'-'-.'(FEMALE.(ELF.(SAGE.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'NOMI'.'-'-')SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SAGE-'-')ELF-'-')FEMALE-'-')'.'-'-'-'
+        -'-'-'-.'(FEMALE.(ELF.(SAGE.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'ARTHUR'.'-'-')'SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SAGE-'-')ELF-'-')FEMALE-'-')'.'-'-'-
+          -'-'-'-.'(FEMALE.(ELF.(SAGE.(DRESDENFILES.(HIGGSFIELD.(STARDUST.(SANDASH.('-'-.'ARTHUR'.'-'-')SANDASH-'-')STARDUST-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SAGE-'-')ELF-'-')FEMALE-'-')'.'-'-'-'
           -'-'-'-.'(FEMALE.(HUMAN.(WIZARD.(DRESDENFILES.(CARPENTER.(AMANDA.(KATHERINE.('-'-.'MOLLY'.'-'-')'KATHERINE-'-')AMANDA-'-')CARPENTER-'-')DRESDENFILES-'-')WIZARD-'-')HUMAN-'-')FEMALE-'-')'.'-'-'-
             -'-'-'-.'(FEMALE.(HUMAN.(WIZARD.(DRESDENFILES.(CARPENTER.(AMANDA.(KATHERINE.('-'-.'MOLLY'.'-'-')KATHERINE-'-')AMANDA-'-')CARPENTER-'-')DRESDENFILES-'-')WIZARD-'-')HUMAN-'-')FEMALE-'-')'.'-'-'-'
             -'-'-'-.'(MALE.(HUMAN.(PALADIN.(DRESDENFILES.(STARK.(AARON.(CODEN.('-'-.'ELLIOT'.'-'-')'CODEN-'-')AARON-'-')STARK-'-')DRESDENFILES-'-')PALADIN-'-')HUMAN-'-')MALE-'-')'.'-'-'-
@@ -534,11 +534,11 @@ include ("Files/players.json")
                   '-'.'('TransSpirit-'SoulLinker-'TransSpirit).'-'
                   '-'.'('SoulLinker-'TransSpirit-'SoulLinker).'-'
                   ('-('Wizard Eyes)'WizardSkill'('Wizard Eyes')'
-                  '('WizardSkill'-Wizard Eyes-'WizardSkill')'-)'
+                  '('WizardSkill'-Wizard Eyes-'WizardSkill')'-).-
                   ('-'('Wizard Eyes)'SageSkill'('Wizard Eyes')'
-                  '('SageSkill'-Wizard Eyes-'SageSkill')'-)'
+                  '('SageSkill'-Wizard Eyes-'SageSkill')'-)
                   ('-'('Monkey Eyes)'SageSkill'('Monkey Eyes')'
-                  '('SageSkill'-Monkey Eyes-'SageSkill')'-)'
+                  '('SageSkill'-Monkey Eyes-'SageSkill')'-).-'
                   '-'.'('Magic-'Aura-'Control).'-'
                   '-'.'('Control-'Aura-'Magic).'-'
                   '-'.'('Magic-'Control-'Aura).'-'
