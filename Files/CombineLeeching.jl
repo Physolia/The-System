@@ -14,14 +14,5 @@ module CombineLeeching
         const Leechstatus = LEECHSTATUS()
         const Gender = GENDER()
         const Race = RACE()
-            c = PLAYERNAME()
-            f = GENDER()
-            x = RACE()
-            b = CLASSNAME()
-            d = LEECHSTATUS()
-            a = LEECHER1()
-        LEECHING(c,f,x,b,d,a)
-        function SelfPlayerLogin(LEECHING())
-            return LEECHING("$PLAYERNAME is playing a $GENDER, $RACE, $CLASSNAME and leeching is $LEECHSTATUS for '-$LEECHER1-'.")
-        end
+        CombineLeeching(Leeching,Playername,Gender,Race,Leechstatus,Leecher1)
 end;
