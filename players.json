@@ -14,11 +14,11 @@
                     "race": "Human",
                     "class": "Wizard",
                     "location": "America",
-                    "birth": [
+                    "birthdate": [
                         {
                             "month": "October",
                             "day": "31",
-                            "year": "1968"
+                            "year": "1972"
                         }
                     ]
                 }
@@ -32,7 +32,7 @@
                     "race": "Human",
                     "class": "Sorcerer",
                     "location": "America",
-                    "birth": [
+                    "birthdate": [
                         {
                             "month": "May",
                             "day": "5",
@@ -50,7 +50,7 @@
                     "race": "Human",
                     "class": "Wizard",
                     "location": "America",
-                    "birth": [
+                    "birthdate": [
                         {
                             "month": "October",
                             "day": "13",
@@ -68,7 +68,7 @@
                     "gender": "Female",
                     "race": "Elf",
                     "class": "Sage",
-                    "birth": [
+                    "birthdate": [
                         {
                             "month": "March",
                             "day": "31",
@@ -86,7 +86,7 @@
                     "gender": "Male",
                     "race": "Demon",                    
                     "class": "Knight",
-                    "birth": [
+                    "birthdate": [
                         {
                             "month": "July",
                             "day": "13",
@@ -102,9 +102,9 @@
                     "fullname": "Ellie Blackiron Starsand Higgsfield",
                     "location": "America",
                     "gender": "Female",
-                    "race": "Demon",   
+                    "race": "Demon",
                     "class": "Sorcerer",
-                    "birth": [
+                    "birthdate": [
                         {
                             "month": "July",
                             "day": "31",
@@ -122,7 +122,7 @@
                     "gender": "Male",
                     "race": "Elf",   
                     "class": "Sorcerer",
-                    "birth": [
+                    "birthdate": [
                         {
                             "month": "November",
                             "day": "13",
@@ -140,7 +140,7 @@
                     "fullname": "Elliot Coden Aaron Stark",
                     "location": "America",
                     "class": "Wizard",
-                    "birth": [
+                    "birthdate": [
                         {
                             "month": "July",
                             "day": "30",
