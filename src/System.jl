@@ -1,4 +1,4 @@
-module The-System
+module System
 
 # Package is just for auto-docs generation
 
