@@ -11,9 +11,11 @@ http://Physolia.github.io/The-System/players.json
 
 http://Physolia.github.io/The-System/Files/Leechers
 
+http://Physolia.github.io/The-System/Files/Leechers.txt
+
 http://Physolia.github.io/The-System/Files/Leechers.jl
 
-Listing both the blank file and the .jl file in an attempt to make sure the 'words' get 'eaten' by a bot.
+Listing both the blank file, the txt file and the .jl file in an attempt to make sure I get a 'byte'.
 
 Leeching stops when you target my 4th Wall.
 If EnemyTarget = my 4th wall, then 
