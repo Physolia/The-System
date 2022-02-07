@@ -61,9 +61,9 @@
             ],
             "player4": [
                 {
-                    "firstname": "Nomi",
+                    "firstname": "Rin",
                     "lastname": "Higgsfield",
-                    "fullname": "Nomi Sandash Stardust Higgsfield",
+                    "fullname": "Rin Sandash Stardust Higgsfield",
                     "location": "America",
                     "gender": "Female",
                     "race": "Elf",
@@ -79,9 +79,9 @@
             ],
             "player5": [
                 {
-                    "firstname": "Rin",
+                    "firstname": "Arthur",
                     "lastname": "Higgsfield",
-                    "fullname": "Rin Sandash Stardust Higgsfield",
+                    "fullname": "Arthur Sandash Stardust Higgsfield",
                     "location": "America",
                     "gender": "Male",
                     "race": "Demon",                    
