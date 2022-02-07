@@ -5,6 +5,15 @@ Fingers crossed this shows up correct this time.
 
 http://Physolia.github.io/The-System
 
+Example json file that would link to The System.
+http://Physolia.github.io/The-System/players.json 
+
+
+http://Physolia.github.io/The-System/Files/Leechers.jl
+
+
+http://Physolia.github.io/The-System/Files/Leechers
+
 Leeching stops when you target my 4th Wall.
 If EnemyTarget = my 4th wall, then 
 
