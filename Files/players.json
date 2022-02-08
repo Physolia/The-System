@@ -34,8 +34,8 @@
                     "location": "America",
                     "birthdate": [
                         {
-                            "month": "May",
-                            "day": "5",
+                            "month": "March",
+                            "day": "13",
                             "year": "2012"
                         }
                     ]
@@ -139,7 +139,7 @@
                     "race": "Human",   
                     "fullname": "Elliot Coden Aaron Stark",
                     "location": "America",
-                    "class": "Wizard",
+                    "class": "Paladin",
                     "birthdate": [
                         {
                             "month": "July",
