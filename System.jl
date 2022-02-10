@@ -22,10 +22,10 @@ include ("Files/players.json")
             -'-'-'-.'(FEMALE.(HUMAN.(WIZARD.(DRESDENFILES.(CARPENTER.(AMANDA.(KATHERINE.('-'-.'MOLLY'.'-'-')KATHERINE-'-')AMANDA-'-')CARPENTER-'-')DRESDENFILES-'-')WIZARD-'-')HUMAN-'-')FEMALE-'-')'.'-'-'-'
             -'-'-'-.'(MALE.(HUMAN.(PALADIN.(DRESDENFILES.(STARK.(AARON.(CODEN.('-'-.'ELLIOT'.'-'-')'CODEN-'-')AARON-'-')STARK-'-')DRESDENFILES-'-')PALADIN-'-')HUMAN-'-')MALE-'-')'.'-'-'-
               -'-'-'-.'(MALE.(HUMAN.(PALADIN.(DRESDENFILES.(STARK.(AARON.(CODEN.('-'-.'ELLIOT'.'-'-')CODEN-'-')AARON-'-')STARK-'-')DRESDENFILES-'-')PALADIN-'-')HUMAN-'-')MALE-'-')'.'-'-'-'
-              -'-'-'-.'(FEMALE.(ELF.(SORCERER.(DRESDENFILES.(HIGGSFIELD.(STARSAND.(BLACKIRON.('-'-.'ELLIE'.'-'-')'BLACKIRON-'-')STARSAND-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SORCERER-'-')ELF-'-')FEMALE-'-')'.'-'-'-
-                -'-'-'-.'(FEMALE.(ELF.(SORCERER.(DRESDENFILES.(HIGGSFIELD.(STARSAND.(BLACKIRON.('-'-.'ELLIE'.'-'-')BLACKIRON-'-')STARSAND-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SORCERER-'-')ELF-'-')FEMALE-'-')'.'-'-'-'
-                -'-'-'-.'(MALE.(HUMAN.(SORCERER.(DRESDENFILES.(HIGGSFIELD.(STARSHADOW.(ICEFLAME.('-'-.'DYLAN'.'-'-')'ICEFLAME-'-')STARSHADOW-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SORCERER-'-')HUMAN-'-')MALE-'-')'.'-'-'-
-                  -'-'-'-.'(MALE.(HUMAN.(SORCERER.(DRESDENFILES.(HIGGSFIELD.(STARSHADOW.(ICEFLAME.('-'-.'DYLAN'.'-'-')ICEFLAME-'-')STARSHADOW-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SORCERER-'-')HUMAN-'-')MALE-'-')'.'-'-'-'
+              -'-'-'-.'(FEMALE.(DRAGON.(SORCERER.(DRESDENFILES.(HIGGSFIELD.(STARSAND.(BLACKIRON.('-'-.'IRIS'.'-'-')'BLACKIRON-'-')STARSAND-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SORCERER-'-')DRAGON-'-')FEMALE-'-')'.'-'-'-
+                -'-'-'-.'(FEMALE.(DRAGON.(SORCERER.(DRESDENFILES.(HIGGSFIELD.(STARSAND.(BLACKIRON.('-'-.'IRIS'.'-'-')BLACKIRON-'-')STARSAND-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SORCERER-'-')DRAGON-'-')FEMALE-'-')'.'-'-'-'
+                -'-'-'-.'(MALE.(ELF.(SORCERER.(DRESDENFILES.(HIGGSFIELD.(STARSHADOW.(ICEFLAME.('-'-.'DYLAN'.'-'-')'ICEFLAME-'-')STARSHADOW-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SORCERER-'-')ELF-'-')MALE-'-')'.'-'-'-
+                  -'-'-'-.'(MALE.(ELF.(SORCERER.(DRESDENFILES.(HIGGSFIELD.(STARSHADOW.(ICEFLAME.('-'-.'DYLAN'.'-'-')ICEFLAME-'-')STARSHADOW-'-')HIGGSFIELD-'-')DRESDENFILES-'-')SORCERER-'-')ELF-'-')MALE-'-')'.'-'-'-'
                   -'.'('Binary-'Language-'Binary).'-'-
                   '-'.'('Language-'Binary-'Language).'-'
                   '-'.'('Language-'Hexidecimal-'Language).'-'
