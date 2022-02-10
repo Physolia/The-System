@@ -102,7 +102,7 @@
                     "fullname": "Dylan Iceflame Starshadow Higgsfield",
                     "location": "America",
                     "gender": "Male",
-                    "race": "Human",
+                    "race": "Elf",
                     "class": "Sorcerer",
                     "birthdate": [
                         {
@@ -115,12 +115,12 @@
             ],
             "player7": [
                 {
-                    "firstname": "Ellie",
+                    "firstname": "Iris",
                     "lastname": "Higgsfield",
-                    "fullname": "Ellie Blackiron Starsand Higgsfield",
+                    "fullname": "Iris Blackiron Starsand Higgsfield",
                     "location": "America",
                     "gender": "Female",
-                    "race": "Elf",
+                    "race": "Dragon",
                     "class": "Sorcerer",
                     "birthdate": [
                         {
