@@ -84,7 +84,7 @@
                     "fullname": "Arthur Sandash Stardust Higgsfield",
                     "location": "America",
                     "gender": "Male",
-                    "race": "Demon",                    
+                    "race": "Dragon",                    
                     "class": "Knight",
                     "birthdate": [
                         {
@@ -97,12 +97,12 @@
             ],
             "player6": [
                 {
-                    "firstname": "Ellie",
+                    "firstname": "Dylan",
                     "lastname": "Higgsfield",
-                    "fullname": "Ellie Blackiron Starsand Higgsfield",
+                    "fullname": "Dylan Iceflame Starshadow Higgsfield",
                     "location": "America",
-                    "gender": "Female",
-                    "race": "Demon",
+                    "gender": "Male",
+                    "race": "Human",
                     "class": "Sorcerer",
                     "birthdate": [
                         {
@@ -115,12 +115,12 @@
             ],
             "player7": [
                 {
-                    "firstname": "Dylan",
+                    "firstname": "Ellie",
                     "lastname": "Higgsfield",
-                    "fullname": "Dylan Iceflame Starshadow Higgsfield",
+                    "fullname": "Ellie Blackiron Starsand Higgsfield",
                     "location": "America",
-                    "gender": "Male",
-                    "race": "Elf",   
+                    "gender": "Female",
+                    "race": "Elf",
                     "class": "Sorcerer",
                     "birthdate": [
                         {
